@@ -4,9 +4,11 @@ A machine learning web app built with **Streamlit** that predicts whether a tele
 
 ---
 
-🚀 Demo
-🌐 Live App: https://customerchurn-hyper7.streamlit.app/
-Enter customer details → Click Predict → Get a Yes / No answer instantly.
+## 🚀 Demo
+
+🌐 **Live App:** [https://customerchurn-hyper7.streamlit.app/](https://customerchurn-hyper7.streamlit.app/)
+
+Enter customer details → Click **Predict** → Get a **Yes / No** answer instantly.
 
 ---
 
@@ -35,9 +37,8 @@ Customer Churn/
 | Prediction Threshold | 0.3 |
 | Target | Churn (Yes / No) |
 
+
 ---
-
-
 
 ## 📥 Input Features
 
